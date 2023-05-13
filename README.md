@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [nabiasheikh.netlify.app](https://nabiasheikh.netlify.app/)
 
-- 💬 Ask me about **MERN , TypeScript, GraphQL, Firebase, Python , Java & MySQL**
+- 💬 Ask me about **MERN, MEAN, TypeScript, NextJS, NestJS, GraphQL, Firebase, Python , Java & MySQL**
 
 ![](https://komarev.com/ghpvc/?username=nabia-sheikh&color=blue&label=PROFILE+VIEWS)
 
